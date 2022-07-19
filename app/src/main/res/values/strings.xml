@@ -9,10 +9,10 @@
     <string name="bt_clear">クリア</string>
     <string name="bt_send">送信</string>
 
-    <string name="dialog_title">送信確認なり</string>
-    <string name="dialog_msg">記述内容に間違いはないなりか？</string>
+    <string name="dialog_title">送信確認</string>
+    <string name="dialog_msg">記述内容に間違いは？</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ng">キャンセル</string>
-    <string name="dialog_ng_toast">キャンセルしたなり</string>
+    <string name="dialog_ng_toast">キャンセル</string>
     <string name="dialog_ok_toast">送信完了</string>
 </resources>
